@@ -3176,5 +3176,3 @@ def cracker(uid, pwx, tl):
 
 
 menu()
-
-#Kidz copy paster fuck your system 
